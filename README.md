@@ -61,32 +61,32 @@
 
 ### 🚀 Projects
 
-* **Dalal Street**
-  PG rental management system with structured data handling
+**📊 Dalal Street**
+PG rental management system with structured data handling
 
-* **ERICA AI**
-  GUI-based AI assistant with voice interaction & automation
+**🤖 ERICA AI**
+GUI-based AI assistant with voice interaction & automation
 
-* **Rider Saathi**
-  Smart rider system with tracking & productivity features
+**🚴 Rider Saathi**
+Smart rider system with tracking & productivity features
 
-* **VINGOO**
-  Backend-focused scalable platform
+**🏦 VINGOO**
+Backend-focused scalable platform
 
-* **Veritas**
-  AI-powered misinformation detection system
+**🧠 Veritas**
+AI-powered misinformation detection system
 
-* **Aretro**
-  Credit intelligence & automated underwriting system
+**📝 Aretro**
+Credit intelligence & automated underwriting system
 
-* **Krishi Sahayak**
-  Agricultural decision support assistant
+**🌱 Krishi Sahayak**
+Agricultural decision support assistant
 
-* **Kheti Bandhu (Vikasss)**
-  Farmer support & insight platform
+**🌾 Kheti Bandhu (Vikasss)**
+Farmer support & insight platform
 
-* **Portfolio Website**
-  Personal showcase of projects & development journey
+**🌐 Portfolio Website**
+Personal showcase of projects & development journey
 
 ---
 
@@ -97,8 +97,6 @@
 
   <img src="https://streak-stats.demolab.com?user=errorplayzz&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
-
 
 ---
 
