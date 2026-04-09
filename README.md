@@ -2,7 +2,7 @@
 <h3 align="center">> Initializing Developer Profile...</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Builder;System+Thinker;Always+Learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Systems+Builder;Problem+Solver;Always+Learning..." />
 </p>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -13,7 +13,7 @@
 > Booting Error.exe...
 > Status: ACTIVE
 > Role: Full Stack Developer | AI Enthusiast
-> Focus: Building real-world systems
+> Focus: Building real-world systems & intelligent tools
 ```
 
 ---
@@ -21,47 +21,76 @@
 ### 🧠 About Me
 
 * 🎓 BCA Student
-* 💻 I build **Full Stack Applications & AI Systems**
-* 🤖 Creator of **ERICA (AI Assistant)**
-* 🚀 Working on **Rider Saathi Project**
-* 🧩 Problem Solver | System Builder
+* 💻 Full Stack Developer focused on real-world solutions
+* 🤖 Building AI systems & automation tools
+* 🚀 Exploring Generative AI & system design
+* 🧩 I don’t just code — I build systems
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 💻 Languages
+#### 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
 
-#### 🌐 Frontend
+#### 🌐 Web Development
 
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge\&logo=css3)
-
-#### ⚙️ Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js)
 
 #### 🗄 Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge\&logo=mysql)
 
-#### 🧰 Tools
+#### 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge\&logo=microsoft-excel)
+![Word](https://img.shields.io/badge/Word-000000?style=for-the-badge\&logo=microsoft-word)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-000000?style=for-the-badge\&logo=microsoft-powerpoint)
+
+#### 🧠 Other Skills
+
+* Generative AI (Prompt Engineering & Tools)
+* System Design Thinking
+* Problem Solving
 
 ---
 
 ### 🚀 Projects
 
-* 🤖 **ERICA** – AI Voice Assistant with GUI & automation
-* 🚴 **Rider Saathi** – Rider management & tracking system
-* 🎮 **Multi-Game Platform** – Web-based gaming system with user scores
+* 📊 **Dalal Street (PG Rental System)**
+  → A platform to manage PG rentals, tenants, and operations efficiently
+
+* 🤖 **ERICA AI**
+  → A GUI-based AI assistant with voice interaction & automation capabilities
+
+* 🚴 **Rider Saathi**
+  → Smart rider support system with tracking, navigation & productivity features
+
+* 🏦 **VINGOO**
+  → Autonomous financial crime intelligence platform
+
+* 🌾 **Vikasss (Kheti Bandhu)**
+  → Agriculture-focused solution to support farmers with smart insights
+
+* 🧠 **Veritas**
+  → AI Misinformation Intelligence Platform
+
+* 📝 **Aretro**
+  → AI-Powered Credit Intelligence & Automated Underwriting Platform
+
+* 🌱 **Krishi Sahayak**
+  → Assistant tool for agricultural guidance & decision support
+
+* 🌐 **Portfolio Website**
+  → Personal portfolio showcasing projects, skills & development journey
 
 ---
 
@@ -79,8 +108,8 @@
 ```bash
 > Mode: Building...
 > Focus: High
-> Bugs: Part of the process
-> Goal: Create something impactful
+> Learning: Continuous
+> Goal: Create impactful systems
 ```
 
 ---
@@ -95,9 +124,8 @@
 
 ### 🌐 Connect
 
-* 💼 LinkedIn: YOUR_LINK
-* 📸 Instagram: YOUR_LINK
-* 🌍 Portfolio: YOUR_LINK
+* 💼 [LinkedIn](https://www.linkedin.com/in/shashank-mahariya/)
+* 🌍 [Portfolio](https://shashank-mahariya-2004.vercel.app/)
 
 ---
 
