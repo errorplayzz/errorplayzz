@@ -23,20 +23,39 @@
 
 ### ⚙️ Tech Stack
 
-**Languages**
-C • C++ • Java • JavaScript • Python
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+</p>
 
-**Web**
-HTML • CSS • Node.js
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+</p>
 
-**Database**
-MySQL
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge"/>
+</p>
 
-**Tools**
-Git • Excel • Word • PowerPoint
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint"/>
+</p>
 
-**Other**
-Generative AI • Prompt Engineering • System Thinking
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge"/>
+</p>
 
 ---
 
