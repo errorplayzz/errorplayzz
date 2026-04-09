@@ -1,4 +1,4 @@
-<h1 align="center">⚠️ ERROR ⚠️</h1>
+<h1 align="center">⚠️ ERRORPlayzz ⚠️</h1>
 <h3 align="center">> Initializing Developer Profile...</h3>
 
 <p align="center">
