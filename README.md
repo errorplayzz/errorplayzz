@@ -2,7 +2,7 @@
 <h3 align="center">> Initializing Developer Profile...</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Systems+Builder;Problem+Solver;Always+Learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Systems+Builder;Problem+Solver;Always+Evolving..." />
 </p>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -12,8 +12,8 @@
 ```bash
 > Booting Error.exe...
 > Status: ACTIVE
-> Role: Full Stack Developer | AI Enthusiast
-> Focus: Building real-world systems & intelligent tools
+> Role: Full Stack Developer | AI Systems Builder
+> Focus: Real-world systems, AI & scalable solutions
 ```
 
 ---
@@ -21,10 +21,10 @@
 ### 🧠 About Me
 
 * 🎓 BCA Student
-* 💻 Full Stack Developer focused on real-world solutions
-* 🤖 Building AI systems & automation tools
-* 🚀 Exploring Generative AI & system design
-* 🧩 I don’t just code — I build systems
+* 💻 Full Stack Developer focused on **real-world problem solving**
+* 🤖 Building **AI systems, automation & intelligent tools**
+* 🚀 Exploring **Generative AI, system design & scalable architectures**
+* 🧩 I don’t just write code — I build **systems that matter**
 
 ---
 
@@ -55,7 +55,7 @@
 ![Word](https://img.shields.io/badge/Word-000000?style=for-the-badge\&logo=microsoft-word)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-000000?style=for-the-badge\&logo=microsoft-powerpoint)
 
-#### 🧠 Other Skills
+#### 🧠 Core Strengths
 
 * Generative AI (Prompt Engineering & Tools)
 * System Design Thinking
@@ -66,28 +66,28 @@
 ### 🚀 Projects
 
 * 📊 **Dalal Street (PG Rental System)**
-  → A platform to manage PG rentals, tenants, and operations efficiently
+  → Full-stack platform to manage PG rentals, tenants & operations efficiently
 
 * 🤖 **ERICA AI**
-  → A GUI-based AI assistant with voice interaction & automation capabilities
+  → GUI-based AI assistant with voice interaction, automation & smart workflows
 
 * 🚴 **Rider Saathi**
-  → Smart rider support system with tracking, navigation & productivity features
+  → Smart rider ecosystem with tracking, navigation & productivity tools
 
 * 🏦 **VINGOO**
-  → Autonomous financial crime intelligence platform
+  → Autonomous financial intelligence platform with scalable backend architecture
 
 * 🌾 **Vikasss (Kheti Bandhu)**
-  → Agriculture-focused solution to support farmers with smart insights
+  → Agriculture-tech solution providing insights & support for farmers
 
 * 🧠 **Veritas**
-  → AI Misinformation Intelligence Platform
+  → AI-powered misinformation detection & intelligence platform
 
 * 📝 **Aretro**
-  → AI-Powered Credit Intelligence & Automated Underwriting Platform
+  → AI-based credit intelligence & automated underwriting system
 
 * 🌱 **Krishi Sahayak**
-  → Assistant tool for agricultural guidance & decision support
+  → Digital assistant for agricultural guidance & decision-making
 
 * 🌐 **Portfolio Website**
   → Personal portfolio showcasing projects, skills & development journey
@@ -106,10 +106,10 @@
 ### 🧪 System Status
 
 ```bash
-> Mode: Building...
-> Focus: High
-> Learning: Continuous
-> Goal: Create impactful systems
+> Mode: BUILDING
+> Focus: HIGH
+> Learning: CONTINUOUS
+> Goal: Creating impactful systems
 ```
 
 ---
@@ -130,5 +130,5 @@
 ---
 
 ```bash
-Error@github:~$ echo "Some errors are meant to build something greater."
+Error@github:~$ echo "Some errors are not bugs — they are evolution."
 ```
