@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">errorplayzz</h1>
+<h1 align="center">ERRORPlayzz</h1>
 <p align="center">
   <i>Building systems. Not just code.</i>
 </p>
