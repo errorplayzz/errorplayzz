@@ -111,7 +111,7 @@ Personal showcase of projects & development journey
 ### 🌐 Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/shashank-mahariya/)
-* 🌍 [Portfolio](https://shashank-mahariya-2004.vercel.app/)
+* 🌍 [Portfolio](https://shashank-mahariya.vercel.app/)
 
 ---
 
