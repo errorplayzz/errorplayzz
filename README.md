@@ -1,83 +1,234 @@
-<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Shashank%20Mahariya&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=18" width="100%"/>
-</p>
+<!-- ===================== HERO ===================== -->
 
-<!-- ======================= INTRO ======================= -->
+<a href="#">
+  <img src="YOUR_VIDEO_GIF_OR_BANNER_URL" width="100%" alt="Shashank Mahariya — Developer"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/errorplayzz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real-World+Web+Applications;Exploring+AI+%26+Intelligent+Automation;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://shashank-mahariya.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shashank-mahariya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/errorplayzz">
-    <img src="https://img.shields.io/badge/GitHub-errorplayzz-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+# SHASHANK MAHARIYA
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=errorplayzz&label=Profile%20Views&color=06B6D4&style=flat-square" />
-</p>
+### `SOFTWARE DEVELOPER`
+
+**Full-Stack · AI · Backend · Automation**
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 Who Am I?
+## `01` — ABOUT ME
 
-```javascript
-const shashank = {
-    education: "BCA Graduate · 2026",
+```text
+> whoami
 
-    role: "Full Stack Developer",
+Software Developer focused on building full-stack applications,
+AI-powered products and scalable backend systems.
 
-    currentlyBuilding: [
-        "Web Applications",
-        "AI-powered systems",
-        "Automation workflows"
-    ],
+I enjoy turning ideas into usable products,
+experimenting with new technologies,
+and understanding how things work under the hood.
 
-    frontend: [
-        "React",
-        "Next.js",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Tailwind CSS"
-    ],
+Currently exploring the intersection of
+Software Engineering × AI × Automation.
+```
 
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Python",
-        "FastAPI"
-    ],
+<br/>
 
-    databases: [
-        "PostgreSQL",
-        "MongoDB"
-    ],
+---
 
-    tools: [
-        "Git",
-        "GitHub",
-        "REST APIs"
-    ],
+## `02` — TECH STACK
 
-    interests: [
-        "Generative AI",
-        "AI Automation",
-        "System Design",
-        "Problem Solving"
-    ],
+<div align="center">
 
-    mindset: "Build → Learn → Improve → Ship"
-};
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
+
+<br/><br/>
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+<br/><br/>
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+
+<br/><br/>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+<br/>
+
+---
+
+## `03` — CURRENTLY
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  ◉ BUILDING                                            │
+│    AI-powered applications                              │
+│                                                         │
+│  ◉ EXPLORING                                           │
+│    Backend architecture & scalable systems              │
+│                                                         │
+│  ◉ LEARNING                                            │
+│    System design, automation & AI engineering            │
+│                                                         │
+│  ◉ EXPERIMENTING                                       │
+│    Turning random ideas into working software            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+## `04` — GITHUB ACTIVITY
+
+<div align="center">
+
+### 🔥 STREAK
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" width="70%"/>
+</a>
+
+<br/><br/>
+
+### 🐍 CONTRIBUTION ACTIVITY
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+<br/>
+
+---
+
+## `05` — THE STACK I LIKE
+
+```text
+Frontend        →  React / Next.js / TypeScript
+Backend         →  Node.js / Express / FastAPI
+Database        →  PostgreSQL / MongoDB / MySQL
+APIs            →  REST / Backend Services
+AI              →  AI-assisted Development / Prompt Engineering
+Tools           →  Git / GitHub / VS Code
+```
+
+<br/>
+
+---
+
+## `06` — A LITTLE ABOUT HOW I WORK
+
+```text
+              IDEA
+                │
+                ▼
+            EXPLORE
+                │
+                ▼
+             BUILD
+                │
+                ▼
+             BREAK
+                │
+                ▼
+             DEBUG
+                │
+                ▼
+             LEARN
+                │
+                ▼
+             REBUILD
+                │
+                ▼
+             SHIP 🚀
+```
+
+<br/>
+
+---
+
+## `07` — NOW PLAYING
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│              coding after midnight                 │
+│                                                    │
+│       🌧️  rain outside     ☕  coffee beside me   │
+│                                                    │
+│              keyboard → ideas → code               │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br/>
+
+---
+
+## `08` — CONNECT
+
+<div align="center">
+
+### `LET'S BUILD SOMETHING.`
+
+If you're working on something interesting,
+feel free to reach out.
+
+<br/>
+
+<a href="mailto:shashankmahariya.tech@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`BUILD • BREAK • LEARN • REBUILD`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey" alt="Profile views"/>
+
+</div>
