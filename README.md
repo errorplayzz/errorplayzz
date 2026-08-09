@@ -1,93 +1,83 @@
-# 👋 Hi, I'm Shashank Mahariya
+<!-- ======================= HEADER ======================= -->
 
-### Full Stack Developer · AI & Automation
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Shashank%20Mahariya&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-I build web applications and real-world systems with a focus on
-clean architecture, practical problem solving, and AI-powered workflows.
+<!-- ======================= INTRO ======================= -->
 
----
+<p align="center">
+  <a href="https://github.com/errorplayzz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real-World+Web+Applications;Exploring+AI+%26+Intelligent+Automation;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🧑‍💻 About
+<p align="center">
+  <a href="https://shashank-mahariya.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shashank-mahariya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/errorplayzz">
+    <img src="https://img.shields.io/badge/GitHub-errorplayzz-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🎓 BCA Graduate · 2026
-- 💻 Full Stack Developer focused on building practical web applications
-- 🤖 Interested in AI-powered applications, automation, and intelligent workflows
-- ⚙️ Experienced with modern frontend and backend technologies
-- 🚀 Building projects from idea to working product
-
----
-
-## ⚙️ Tech Stack
-
-### Languages
-JavaScript · TypeScript · Python · SQL
-
-### Frontend
-React · Next.js · HTML5 · CSS3 · Tailwind CSS
-
-### Backend
-Node.js · Express.js · FastAPI
-
-### Database
-PostgreSQL · MongoDB
-
-### Tools & Technologies
-Git · GitHub · REST APIs
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=errorplayzz&label=Profile%20Views&color=06B6D4&style=flat-square" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 Who Am I?
 
-### 🌾 VIKASSS
-AI-powered cooperative farming and rural logistics platform focused on
-produce coordination, market decisions, and transportation optimization.
+```javascript
+const shashank = {
+    education: "BCA Graduate · 2026",
 
-### 🚴 Rider Saathi
-Smart rider management platform with tracking, productivity features,
-and real-world operational workflows.
+    role: "Full Stack Developer",
 
-### 🤖 ERICA AI
-GUI-based AI assistant with voice interaction and automation capabilities.
+    currentlyBuilding: [
+        "Web Applications",
+        "AI-powered systems",
+        "Automation workflows"
+    ],
 
-### 🧠 Veritas
-AI-powered misinformation detection system.
+    frontend: [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Tailwind CSS"
+    ],
 
-### 🏦 VINGOO
-Backend-focused platform designed around scalable application architecture.
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Python",
+        "FastAPI"
+    ],
 
----
+    databases: [
+        "PostgreSQL",
+        "MongoDB"
+    ],
 
-## 🔹 Other Projects
+    tools: [
+        "Git",
+        "GitHub",
+        "REST APIs"
+    ],
 
-### 📊 Dalal Street
-PG rental management system focused on structured data handling and
-rental management workflows.
+    interests: [
+        "Generative AI",
+        "AI Automation",
+        "System Design",
+        "Problem Solving"
+    ],
 
-### 📝 Aretro
-Credit intelligence and automated underwriting system.
-
-### 🌱 Krishi Sahayak
-Agricultural decision-support assistant designed to help users make
-better farming-related decisions.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, development work, and technical skills.
-
----
-
-## 📊 GitHub Stats
-
-<!-- Add your GitHub stats widget here if you want to display contribution statistics. -->
-
----
-
-## 🐍 Contribution Activity
-
-<!-- Add your contribution snake animation here if desired. -->
-
----
-
-## 🌐 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/shashank-mahariya/)
-- 🌍 [Portfolio](https://shashank-mahariya.vercel.app/)
+    mindset: "Build → Learn → Improve → Ship"
+};
