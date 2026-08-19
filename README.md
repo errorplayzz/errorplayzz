@@ -225,7 +225,7 @@ Some become lessons.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/.github/workflows/snake.yml" width="100%" alt="Contribution Snake"/>
 
 </div>
 
