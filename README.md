@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="YOUR_HERO_VIDEO_GIF_URL" width="100%" alt="Shashank creating"/>
+<img src="github dev gif (1).gif" width="100%" alt="Shashank creating"/>
 
 <br/>
 
