@@ -217,7 +217,11 @@ Some become lessons.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" width="75%"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=shashankmahariya&theme=github-dark-blue&hide_border=true"
+  width="75%"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
@@ -225,7 +229,23 @@ Some become lessons.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/.github/workflows/snake.yml" width="100%" alt="Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shashankmahariya/shashankmahariya/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shashankmahariya/shashankmahariya/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/shashankmahariya/shashankmahariya/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
