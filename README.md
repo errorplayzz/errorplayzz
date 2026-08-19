@@ -218,7 +218,7 @@ Some become lessons.
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=shashankmahariya&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"
   width="75%"
   alt="GitHub Streak"
 />
@@ -232,16 +232,16 @@ Some become lessons.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shashankmahariya/shashankmahariya/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/shashankmahariya/shashankmahariya/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/shashankmahariya/shashankmahariya/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
     width="100%"
     alt="GitHub Contribution Snake"
   />
